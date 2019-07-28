@@ -39,15 +39,17 @@ img {
 	border-color: #98ADA6;
 }
 
+h2 {
+	color: #6F7F7A;
+	font-size: 2em;
+}
+
 #about h2 {
 	color: #6F7F7A;
 	font-size: 2em;
 }
 
-h2 {
-	color: #6F7F7A;
-	font-size: 2em;
-}
+
 
 p {
     color: #555;
