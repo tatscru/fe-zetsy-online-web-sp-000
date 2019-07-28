@@ -27,7 +27,7 @@ h1 {
 	font-size: 7em;
 	font-weight: normal;
 	font-family: 'Baskerville';
-	border-bottom: 1.5px solid;
+	border-bottom: 1.5px solid #ccc;
 }
 
 /* Write all remaining styles here */
