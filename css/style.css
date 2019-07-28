@@ -44,9 +44,9 @@ header {
   color: rgb(152,173,166);
 }
 
-/*header a:hover{
+header:hover{
   color: rgb(111,127,122);
-}*/
+}
 
 
 img {
