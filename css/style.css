@@ -37,6 +37,10 @@ h1 {
   margin-bottom: 20px;
 }
 
+header a:hover{
+  color: rgb(111,127,122);
+}
+
 
 
 img {
