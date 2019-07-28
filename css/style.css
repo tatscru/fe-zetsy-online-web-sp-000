@@ -65,4 +65,10 @@ p {
     margin: 0 0 20px 0;
 }
 
+.press img {
+	transition: border-color 0.5s ease;
+	border-color: #ccc;
+	padding: 1px;
+}
+
 /* Write all remaining styles here */
